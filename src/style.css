@@ -1,0 +1,33 @@
+.about {
+    background-color: rgb(231, 107, 173);
+    color: white;
+}
+
+nav {
+    background-color: white;
+}
+
+button {
+    background-color: rgb(231, 107, 173);
+    color: white;
+    position: relative;
+
+}
+
+label {
+    text-align: center, solid;
+}
+
+h1 {
+    color: white;
+    position:sticky;
+
+}
+
+ul {
+    color: white;
+    background-color: rgb(231, 107, 173);
+}
+
+.
+
